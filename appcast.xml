@@ -3,11 +3,11 @@
     <channel>
         <title>Reservas CCE - Appcast</title>
         <item>
-            <title>Version 1.0.13</title>
+            <title>Version 1.0.15</title>
             <description>Android version of Reservas CCE</description>
-            <pubDate>Tue, 20 Dec 2022 11:30:00 +0000</pubDate>
-            <versionString>1.0.13</versionString>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.reservascce.app" sparkle:version="1.0.13" sparkle:os="android" />
+            <pubDate>Tue, 7 Mar 2023 10:30:00 +0000</pubDate>
+            <versionString>1.0.15</versionString>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reservascce.app" sparkle:version="1.0.15" sparkle:os="android" />
         </item>
     </channel>
 </rss>
